@@ -1,4 +1,4 @@
-# ASP.NET Core 6 looking API Controllers in unity!
+# ASP.NET Core 6 looking API Controllers in unity
 
 ```cs
 [ApiController, Route("[controller]/[action]")]
